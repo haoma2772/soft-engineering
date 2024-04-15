@@ -27,6 +27,14 @@ This experiment is part of the Software Engineering and Practice course in the C
    - Get a deep understanding of the project activity chart
    - Practice using project tracking tools
    - Discuss human resource management and organizational structure
+6. [Lab 6: Workload estimation, risk management, software requirements Specification SRS (1)](lab6/lab6_requirement.pdf)
+   - Workload estimation
+   - Risk management
+   - Learn the requirements and structure of the SRS document
+7. [Lab 5: Software Requirements Specification SRS (2)](lab7/lab7_requirement.pdf)
+   - Write the first SRS draft of your project
+   - Learn the requirements and features of the latest software requirements Specification SRS document
+   - Practice using various static modeling tools (E-R, UML, etc.) to model the project in charge and communicate with users.
 
 ## Contact Information
 
