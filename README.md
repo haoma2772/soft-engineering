@@ -31,7 +31,7 @@ This experiment is part of the Software Engineering and Practice course in the C
    - Workload estimation
    - Risk management
    - Learn the requirements and structure of the SRS document
-7. [Lab 5: Software Requirements Specification SRS (2)](lab7/lab7_requirement.pdf)
+7. [Lab 7: Software Requirements Specification SRS (2)](lab7/lab7_requirement.pdf)
    - Write the first SRS draft of your project
    - Learn the requirements and features of the latest software requirements Specification SRS document
    - Practice using various static modeling tools (E-R, UML, etc.) to model the project in charge and communicate with users.
