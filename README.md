@@ -35,6 +35,10 @@ This experiment is part of the Software Engineering and Practice course in the C
    - Write the first SRS draft of your project
    - Learn the requirements and features of the latest software requirements Specification SRS document
    - Practice using various static modeling tools (E-R, UML, etc.) to model the project in charge and communicate with users.
+8. [Experiment 8 Software Requirements Specification SRS (3)](lab8/lab8_requirement.pdf)
+   -. Learn the basic knowledge of Petri Net and how to apply Petri net modeling
+   -. Practice using various dynamic modeling tools (state diagram, Petri Net, data flow diagram, OCL logic, etc.) to model the project in charge
+   -. Improve your project's SRS
 
 ## Contact Information
 
