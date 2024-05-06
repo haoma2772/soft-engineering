@@ -39,6 +39,16 @@ This experiment is part of the Software Engineering and Practice course in the C
    - Learn the basic knowledge of Petri Net and how to apply Petri net modeling
    - Practice using various dynamic modeling tools (state diagram, Petri Net, data flow diagram, OCL logic, etc.) to model the project in charge
    - Improve your project's SRS
+9. [Experiment 9 UML,Logic, Software Architecture Design (1)](lab9/lab9_requirement.pdf)
+   - Deep understanding of UML
+   - Understand logic in computer science
+   - Learn to compare Software Architecture Design GB with IEEE's latest Software Architecture Document (SAD) standards
+   - Study classic software architecture cases
+   - Complete SRS for your own project
+10. [Experiment 10 Software Architecture Design (2)](lab10/lab10_requirement.pdf)
+   - Architecture style and view characteristics
+   - Study classic software architecture cases
+   - Continue to supplement and modify the SAD of their own projects
 
 ## Contact Information
 
