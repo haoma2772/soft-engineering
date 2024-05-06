@@ -56,7 +56,7 @@ This experiment is part of the Software Engineering and Practice course in the C
 
 If you have any questions or suggestions about the experiment content, please feel free to contact us.
 
-- Email: haoma@mail.sdu.edu.cn
+- Email: haoma2772@gmail.com
 
 ## Copyright Statement
 
