@@ -45,7 +45,7 @@ This experiment is part of the Software Engineering and Practice course in the C
    - Learn to compare Software Architecture Design GB with IEEE's latest Software Architecture Document (SAD) standards
    - Study classic software architecture cases
    - Complete SRS for your own project
-10. [Experiment 10 Software Architecture Design (2)](lab10/lab10_requirement.pdf)
+1. [Experiment 10 Software Architecture Design (2)](lab10/lab10_requirement.pdf)
    - Architecture style and view characteristics
    - Study classic software architecture cases
    - Continue to supplement and modify the SAD of their own projects
