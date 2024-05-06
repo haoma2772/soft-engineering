@@ -49,6 +49,8 @@ This experiment is part of the Software Engineering and Practice course in the C
    - Architecture style and view characteristics
    - Study classic software architecture cases
    - Continue to supplement and modify the SAD of their own projects
+  
+
 
 ## Contact Information
 
