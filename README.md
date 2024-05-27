@@ -45,10 +45,19 @@ This experiment is part of the Software Engineering and Practice course in the C
    - Learn to compare Software Architecture Design GB with IEEE's latest Software Architecture Document (SAD) standards
    - Study classic software architecture cases
    - Complete SRS for your own project
-1. [Experiment 10 Software Architecture Design (2)](lab10/lab10_requirement.pdf)
+10. [Experiment 10 Software Architecture Design (2)](lab10/lab10_requirement.pdf)
    - Architecture style and view characteristics
    - Study classic software architecture cases
    - Continue to supplement and modify the SAD of their own projects
+11. [Experiment 11 Software Architecture Design (3)](lab11/lab11_requirement.pdf)
+   - In-depth understanding of architecture design and evaluation of improvements
+   - Complete SAD
+12. [Design Module (1)](lab12/lab12_requirement.pdf)
+   - Cultivate the ability to practice design principles
+   - Learn about dependency injection
+13. [Design Module (2)](lab13/lab13_requirement.pdf)
+   - Object-oriented design principles
+
   
 
 
