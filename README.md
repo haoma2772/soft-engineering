@@ -65,6 +65,8 @@ This experiment is part of the Software Engineering and Practice course in the C
 
 ### Lab 13: [Design Module (2)](lab13/lab13_requirement.pdf)
    - Object-oriented design principles
+### Lab 14: [Design Module (3)](lab14/lab14_requirement.pdf)
+   - Learning design patterns, can use design patterns in project design for object-oriented design
 
 ## Contact Information
 
