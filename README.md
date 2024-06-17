@@ -68,6 +68,11 @@ This experiment is part of the Software Engineering and Practice course in the C
 ### Lab 14: [Design Module (3)](lab14/lab14_requirement.pdf)
    - Learning design patterns, can use design patterns in project design for object-oriented design
 
+## PMS deployment
+- In-depth understanding of architecture design and evaluation of improvements
+- In-depth understanding of architecture design and evaluation of improvements
+- In-depth understanding of architecture design and evaluation of improvements
+
 ## Contact Information
 
 If you have any questions or suggestions about the experiment content, please feel free to contact us.
