@@ -69,9 +69,23 @@ This experiment is part of the Software Engineering and Practice course in the C
    - Learning design patterns, can use design patterns in project design for object-oriented design
 
 ## PMS deployment
-- In-depth understanding of architecture design and evaluation of improvements
-- In-depth understanding of architecture design and evaluation of improvements
-- In-depth understanding of architecture design and evaluation of improvements
+### Envs:
++ python >= 3.6
++ mysql 8
++ django == 3.2.7
++ pymysql
+### Steps:
+1. 将项目pull到本地
+2. 在本地mysql创建用于本项目的空数据库，并在settings.py中配置
+3. 在项目根目录执行命令用于数据迁移
+```
+python manage.py makemigrations
+python manage.py migrate
+```
+4. 在项目根目录执行命令，运行项目
+```
+python manage.py runserver
+```
 
 ## Contact Information
 
