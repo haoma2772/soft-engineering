@@ -159,7 +159,6 @@ latest(i)=\min (latest(j)-w(i,j)) ,j\in S(i)
 然后对于活动k的连接事件(i,j)\newline
 early(k)=earliest(i)\newline
 late(k)=latest(j)-w(i,j)\newline
-
 $$
 
 
